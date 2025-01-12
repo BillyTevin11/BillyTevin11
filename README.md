@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tevin Billy Ochieng'.
-- 👀 I’m interested in Geospatial and Spatial Data Science Projects.
-- 🌱 I’m currently learning Spatial Data Science.
+- 👀 I’m interested in Geospatial and Spatial Data Analysis Projects.
+- 🌱 I’m currently learning Spatial Data Analytics.
 - 💞️ I’m looking to collaborate on projects involving Geospatial Analysis or Geo-Informatics.
 - 📫 How to reach me: Email: vindevon11@gmail.com
 - 😄 Pronouns: HE/HIM.
