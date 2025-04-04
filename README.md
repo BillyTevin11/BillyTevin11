@@ -1,3 +1,9 @@
+
+
+
+![3D landscape image with Geospatial Engineering and Data Analytics background, featuring the name Tevin Ochieng, in different styles](https://github.com/user-attachments/assets/713942b2-09f3-4e68-8b08-d8118ffe75d0)
+
+
 # 💫 About Me:
 Currently working on Geospatial Coding Projects.<br>I'm looking to collaborate on Spatial Related Coding Projects especially with R or Python.<br>I'm looking to securing an Internship opportunity, In-person (KE), Remote or Hybrid.<br>Currently learning Data Analytics at Everything Data Africa.<br>Ask me about Remote Sensing, History, Music, Film, Art, Boxing or MMA<br>Fun Fact: I'm a great Combat Sports Analyst. I at times feel like I should be a Broadcaster.<br><br><br>
 
