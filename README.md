@@ -1,7 +1,8 @@
 
 
 
-![3D landscape image with Geospatial Engineering and Data Analytics background, featuring the name Tevin Ochieng, in different styles](https://github.com/user-attachments/assets/713942b2-09f3-4e68-8b08-d8118ffe75d0)
+
+![README](https://github.com/user-attachments/assets/c653ab65-434b-496a-9681-a053976acdb9)
 
 
 # 💫 About Me:
