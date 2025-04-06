@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-Currently working on Geospatial Coding Projects.<br>I'm looking to collaborate on Spatial Related Coding Projects especially with R or Python.<br>I'm looking to securing an Internship opportunity, In-person (KE), Remote or Hybrid.<br>Currently learning Data Analytics at Everything Data Africa.<br>Ask me about Remote Sensing, History, Music, Film, Art, Boxing or MMA<br>Fun Fact: I'm a great Combat Sports Analyst. I at times feel like I should be a Broadcaster.<br><br><br>
+Currently working on Geospatial Coding Projects.<br>I'm looking to collaborate on Spatial Related Coding Projects especially with R or Python.<br>I'm looking to securing an Internship opportunity, In-person (KE), Remote or Hybrid.<br>Currently learning Data Analytics at Everything Data Africa.<br><br><br>
 
 
 ## 🌐 Socials:
