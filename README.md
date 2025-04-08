@@ -6,7 +6,15 @@
 
 
 # 💫 About Me:
-Currently working on Geospatial Coding Projects.<br>I'm looking to collaborate on Spatial Related Coding Projects especially with R or Python.<br>I'm looking to securing an Internship opportunity, In-person (KE), Remote or Hybrid.<br>Currently learning Data Analytics at Everything Data Africa.<br><br><br>
+🚀 Currently diving deep into Geospatial Coding Projects with a strong focus on leveraging the power of R and Python for spatial data analysis and visualization.
+
+🌍 Passionate about all things spatial! I'm actively seeking collaborative opportunities on projects that involve geospatial analytics, mapping, and location intelligence.
+
+🎯 Open to internship opportunities—whether in-person in Kenya, remote, or hybrid—where I can contribute, grow, and learn from real-world challenges in the field of geospatial data.
+
+📊 Currently pursuing Data Analytics through Everything Data Africa in collaboration with DataCamp, where I’m learning to extract powerful insights from data to drive smarter decisions.
+
+Let’s connect if you’re working on something exciting in the geospatial or data space!
 
 
 ## 🌐 Socials:
