@@ -6,13 +6,12 @@
 
 
 # 💫 About Me:
-🚀 Currently diving deep into Geospatial Coding Projects with a strong focus on leveraging the power of R and Python for spatial data analysis and visualization.
+📊🚀 Currently pursuing a Master of Science in Business Analytics with a strong focus on leveraging the power of Power BI, R and Python for data analysis and visualization.
 
-🌍 Passionate about all things spatial! I'm actively seeking collaborative opportunities on projects that involve geospatial analytics, mapping, and location intelligence.
+🌍 Passionate about all things data! I'm actively seeking collaborative opportunities on projects that involve business intelligence, geospatial analytics and mapping.
 
-🎯 Open to internship opportunities—whether in-person in Kenya, remote, or hybrid—where I can contribute, grow, and learn from real-world challenges in the field of geospatial data.
+🎯 Open to opportunities—whether in-person in the US, remotely, or hybrid—where I can contribute, grow, and learn from real-world challenges in data analytics.
 
-📊 Currently pursuing Data Analytics through Everything Data Africa in collaboration with DataCamp, where I’m learning to extract powerful insights from data to drive smarter decisions.
 
 Let’s connect if you’re working on something exciting in the geospatial or data space!
 
